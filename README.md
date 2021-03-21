@@ -3,4 +3,5 @@
 
 1. Problem : could not create a directory for plugin
     Command : sudo chmod 777 -R /opt/lampp/htdocs/nayem_tech
+2. FTP out : wp-config -> define('FS_METHOD', 'direct');
     
