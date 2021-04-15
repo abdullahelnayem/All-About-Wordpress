@@ -7,6 +7,7 @@
 
 
 **2. Wordpress Installing Problem**
+   
     * Problem : could not create a directory for plugin
         Command : sudo chmod 777 -R /opt/lampp/htdocs/nayem_tech
         
