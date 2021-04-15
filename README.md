@@ -3,13 +3,13 @@
 
 **1. Wordpress Resources**
 
-      * Wp Best Plugin , Themes and etc : https://www.wpsuperstars.net/
+      1.  Wp Best Plugin , Themes and etc : https://www.wpsuperstars.net/
 
 
 **2. Wordpress Installing Problem**
    
-    * Problem : could not create a directory for plugin
+    1.  Problem : could not create a directory for plugin
         Command : sudo chmod 777 -R /opt/lampp/htdocs/nayem_tech
         
-    *  FTP out : wp-config -> define('FS_METHOD', 'direct');
+    2. FTP out : wp-config -> define('FS_METHOD', 'direct');
 
