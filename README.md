@@ -4,7 +4,7 @@
 **1. Wordpress Resources**
 
       1.  Wp Best Plugin , Themes and etc : https://www.wpsuperstars.net/
-      2.  Expert the wordpress following the steps : https://www.wpbeaverbuilder.com/becoming-a-wordpress-expert/
+      2.  Expert the wordpress following the steps : https://wpnewsify.com/blog/steps-become-wordpress-professional/
 
 
 **2. Wordpress Installing Problem**
