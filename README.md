@@ -5,7 +5,8 @@
 
       1.  Wp Best Plugin , Themes and etc : https://www.wpsuperstars.net/
       2.  Expert the wordpress following the steps : https://wpnewsify.com/blog/steps-become-wordpress-professional/
-      3.  Pro Plugin : https://www.shineads.in/
+      3.  Pro Plugin : https://developerszone.net/
+     
 
 
 **2. Wordpress Installing Problem**
