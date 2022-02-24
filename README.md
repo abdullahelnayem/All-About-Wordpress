@@ -16,3 +16,15 @@
         
     2. FTP out : wp-config -> define('FS_METHOD', 'direct');
 
+
+**3. Elementor Icon Box Mobile Align Css:
+@media (max-width: 600px) {
+.elementor-icon-box-icon {
+float: left;
+}
+
+.elementor-icon-box-content {
+text-align: left;
+margin-left: 50px;
+}
+}
